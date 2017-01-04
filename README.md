@@ -1,2 +1,2 @@
-# bash-create-project
-An old bash script Zenman used to use to start new projects and get them connected with a remote git server.
+# Old Bash Project Creator
+I built this simple bash script for my [Zenman](https://www.zenman.com/) team to create local and remote WordPress projects with some initialized elements, tied together via a crude bare repo system. It served its purpose till we were able to get a GitLab server set up and I built a much more robust version with webhooks.
